@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ptc-linux-webapp", "ptc-linux-webapp\ptc-linux-webapp.csproj", "{6DC90594-671D-49D4-A6F0-20D8F3109730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DC90594-671D-49D4-A6F0-20D8F3109730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC90594-671D-49D4-A6F0-20D8F3109730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC90594-671D-49D4-A6F0-20D8F3109730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC90594-671D-49D4-A6F0-20D8F3109730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {206A6549-7C74-4B3A-9EDE-7686539CBBC1}
+	EndGlobalSection
+EndGlobal
